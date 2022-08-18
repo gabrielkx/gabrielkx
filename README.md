@@ -1,9 +1,8 @@
 <h1 align="center">Oi 👋,eu sou Gabriel Oliveira</h1>
 <h3 align="center">Apaixonado por desenvolvimento web</h3>
 
-- Eu estou atualmente trabalhando [DjangoWebSite](https://projetonovo91.herokuapp.com/)
+- Eu estou atualmente trabalhando com Testes Unitários, E2E e integração.
 
-- Atualmente estou desenvolvimento **Django, Banco de dados**
 
 - Também estou colaborando no GitHub [GitHub](https://github.com/gabrielkx)
 
