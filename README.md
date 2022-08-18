@@ -6,8 +6,6 @@
 
 - Também estou colaborando no GitHub [GitHub](https://github.com/gabrielkx)
 
-- Me pergunte Sobre **Python, Django , C**
-
 - Voce me acha **Gabrielgamersbr@gmail.com**
 
 - Website Manager, Tecnico de informática [https://www.linkedin.com/in/gabriel-oliveira-656b801bb/](https://www.linkedin.com/in/gabriel-oliveira-656b801bb/)
