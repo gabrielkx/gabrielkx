@@ -8,8 +8,6 @@
 
 - Voce me acha **Gabrielgamersbr@gmail.com**
 
-- Website Manager, Tecnico de informática [https://www.linkedin.com/in/gabriel-oliveira-656b801bb/](https://www.linkedin.com/in/gabriel-oliveira-656b801bb/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-oliveira-656b801bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-oliveira-656b801bb/" height="30" width="40" /></a>
