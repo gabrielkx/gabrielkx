@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋,eu sou Gabriel Oliveira</h1>
 <h3 align="center">Apaixonado por desenvolvimento web</h3>
 
-- Eu estou atualmente trabalhando com Testes Unitários, E2E e integração.
+- Eu estou atualmente trabalhando com Desenvolvimento Web Backend e FrontEnd. Testes Unitários, E2E e integração.
 
 
 - Também estou colaborando no GitHub [GitHub](https://github.com/gabrielkx)
